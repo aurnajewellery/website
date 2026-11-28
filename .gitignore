@@ -1,0 +1,18 @@
+# Internal files: not part of the published site
+.claude/
+guidelines/
+reference/
+img/preview/
+copyimages.bat
+*.xlsx
+
+# Source photography (the site uses the 800 px .jpg exports next to them)
+img/products/**/*.png
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+img/preview--/
+img/hero/*.png

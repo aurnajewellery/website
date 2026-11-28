@@ -92,7 +92,9 @@
       } else if (C.preview) {
         media.appendChild(placeholder('Category photograph (4:5)'));
       } else {
-        card.hidden = true;
+        // No photograph yet: keep the category visible with the AURNA star on ivory
+        media.classList.add('cat-card__media--mark');
+        media.appendChild(makeImg(rootPath('img/logo/aurna-mark.svg'), '', { width: 96, height: 96 }));
       }
     });
     if (cards.every(function (c) { return c.hidden; })) {

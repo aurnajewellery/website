@@ -130,9 +130,9 @@ window.AURNA_CONFIG = {
   /* Collection card photographs, 4:5, product on white. Empty = card hidden on the live site. */
   collections: {
     "rings":               { src: "img/collections/rings.jpg", alt: "Six-prong solitaire ring in yellow gold with a round laboratory-grown diamond and a stone-set band" },
-    "earrings":            { src: "", alt: "" },
-    "pendants":            { src: "", alt: "" },
-    "necklaces":           { src: "", alt: "" },
+    "earrings":            { src: "img/collections/earrings.jpg", alt: "Drop earring in yellow gold with a round and a pear-shaped laboratory-grown diamond, worn" },
+    "pendants":            { src: "img/collections/pendants.jpg", alt: "Oval halo pendant in yellow gold with laboratory-grown diamonds, worn" },
+    "necklaces":           { src: "img/collections/necklaces.jpg", alt: "Tennis necklace in yellow gold with round laboratory-grown diamonds and a pear-shaped drop, worn" },
     "bracelets":           { src: "", alt: "" },
     "everyday-essentials": { src: "", alt: "" }
   },
