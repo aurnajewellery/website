@@ -14,10 +14,10 @@
  */
 window.AURNA_CONFIG = {
   /* Turn OFF before launch. */
-  preview: true,
+  preview: false,
 
   /* Full site address, no trailing slash, e.g. "https://www.aurnajewellery.com" [DECIDE] */
-  siteUrl: "",
+  siteUrl: "https://aurna.co",
 
   /* WhatsApp Business number: digits only, with country code, e.g. "919800000000" [CONFIRM] */
   whatsappNumber: "",
