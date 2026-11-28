@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Before launch, replace YOUR-DOMAIN with the live domain. Add each new page as it goes live. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/rings/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/earrings/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/pendants/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/necklaces/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/bracelets/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/collections/everyday-essentials/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/customise/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/the-science/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/about/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/our-approach/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/request-trade-catalogue/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/contact/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/trade-partnership/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/privacy/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/refunds/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/shipping/</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://YOUR-DOMAIN/service-terms/</loc><lastmod>2026-11-23</lastmod></url>
+</urlset>
